@@ -1,0 +1,12 @@
+/Users/aluno/Projects/RotationApp/RotationApp/obj/Debug/netstandard2.0/RotationApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/RotationApp/RotationApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/RotationApp/RotationApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/RotationApp/RotationApp/obj/Debug/netstandard2.0/RotationApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/RotationApp/RotationApp/obj/Debug/netstandard2.0/RotationApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/RotationApp/RotationApp/obj/Debug/netstandard2.0/RotationApp.AssemblyInfo.cs
+/Users/aluno/Projects/RotationApp/RotationApp/obj/Debug/netstandard2.0/RotationApp.dll
+/Users/aluno/Projects/RotationApp/RotationApp/obj/Debug/netstandard2.0/RotationApp.pdb
+/Users/aluno/Projects/RotationApp/RotationApp/bin/Debug/netstandard2.0/RotationApp.deps.json
+/Users/aluno/Projects/RotationApp/RotationApp/bin/Debug/netstandard2.0/RotationApp.dll
+/Users/aluno/Projects/RotationApp/RotationApp/bin/Debug/netstandard2.0/RotationApp.pdb
+/Users/aluno/Projects/RotationApp/RotationApp/obj/Debug/netstandard2.0/XamlC.stamp

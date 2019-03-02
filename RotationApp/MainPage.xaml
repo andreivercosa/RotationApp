@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:RotationApp"
+             x:Class="RotationApp.MainPage">
+
+
+    <StackLayout BackgroundColor="Silver">
+        
+        <Slider
+                VerticalOptions="CenterAndExpand"/>
+        
+        
+        <Label Text="0"
+               HorizontalOptions="Center"
+               TextColor="White"
+               VerticalOptions="CenterAndExpand"
+               FontSize="30"
+               x:Name="texto"/>
+        
+        <StackLayout HorizontalOptions="Center" Orientation="Horizontal">
+            
+        <Button
+            Text="-"
+            TextColor="White"
+            WidthRequest="150"
+            MinimumHeightRequest="80"
+            BackgroundColor="Red"
+            Clicked="aumentar"
+               
+            />
+            <Button
+            Text="+"
+            TextColor="White"
+            WidthRequest="150"
+            MinimumHeightRequest="80"
+            BackgroundColor="Blue"
+            Clicked="diminuir" 
+            />
+            </StackLayout>
+    </StackLayout>
+</ContentPage>
