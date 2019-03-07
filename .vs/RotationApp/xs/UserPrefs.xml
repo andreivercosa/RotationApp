@@ -1,17 +1,19 @@
 ﻿<Properties StartupConfiguration="{4E2EA955-265F-43D8-817D-DFBA64C93F67}|Default">
   <MonoDevelop.Ide.ItemProperties.RotationApp.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.ItemProperties.RotationApp.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RotationApp/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RotationApp/MainPage.xaml.cs">
     <Files>
-      <File FileName="RotationApp/MainPage.xaml" Line="37" Column="15" />
-      <File FileName="RotationApp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="RotationApp/MainPage.xaml" Line="17" Column="29" />
+      <File FileName="RotationApp/MainPage.xaml.cs" Line="34" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RotationApp" expanded="True">
             <Node name="RotationApp" expanded="True">
-              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

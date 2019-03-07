@@ -8,15 +8,27 @@
     <StackLayout BackgroundColor="Silver">
         
         <Slider
-                VerticalOptions="CenterAndExpand"/>
+                VerticalOptions="CenterAndExpand"
+                ValueChanged="Handle_ValueChanged"
+                x:Name="bola"
+                Minimum="0"
+                Maximum="180"
+        />
         
+        
+        <Label Text="Estavel"
+               HorizontalOptions="Center"
+               TextColor="White"
+               VerticalOptions="CenterAndExpand"
+               FontSize="30"
+               x:Name="texto"/>
         
         <Label Text="0"
                HorizontalOptions="Center"
                TextColor="White"
                VerticalOptions="CenterAndExpand"
                FontSize="30"
-               x:Name="texto"/>
+               x:Name="valor"/>
         
         <StackLayout HorizontalOptions="Center" Orientation="Horizontal">
             
